@@ -1,6 +1,6 @@
 ### Olá, eu sou Isabelle Oliveira Santos👋
 - 🔭 Cursando Analise e desenvolvimento de sistemas
-- 🌱 Estudando python e javascript
+- 🌱 Estudando C# e Java
 - 😄 Pronouns: ela/dela
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=oliveiraisabelle&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
