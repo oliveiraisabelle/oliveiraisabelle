@@ -1,6 +1,5 @@
-### Olá, eu sou Isabelle Oliveira Santos👋
-- 🔭 Cursando Analise e desenvolvimento de sistemas
-- 🌱 Estudando C# e Java
+### Hello there, I´m Isabelle Oliveira Santos👋
+- 🌱 Studying C# e Java
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiraisabelle&hide_progress=true&theme=dark)
 
