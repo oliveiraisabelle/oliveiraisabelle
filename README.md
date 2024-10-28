@@ -1,4 +1,4 @@
-### Hello there, I´m Isabelle Oliveira Santos👋
+### Hello there👋
 - 🌱 Studying C#, JAVA e Ladder
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiraisabelle&hide_progress=true&theme=dark)
